@@ -1,0 +1,306 @@
+# Nonaki .
+# FIRST AUTHOR <prappo.prince@gmail.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-16 20:38+0600\n"
+"PO-Revision-Date: 2021-10-16 20:45+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: bootstrap.php:59
+msgid "Create Template"
+msgstr ""
+
+#: editor/preview.php:50 includes/cpt.php:109 includes/metabox.php:194
+msgid "Edit Template"
+msgstr ""
+
+#: editor/template.php:163
+msgid "Save"
+msgstr ""
+
+#: editor/template.php:170
+msgid "Exit"
+msgstr ""
+
+#: editor/template.php:181
+msgid "Selectors"
+msgstr ""
+
+#: editor/template.php:188
+msgid "Attributes"
+msgstr ""
+
+#: editor/template.php:195
+msgid "Style"
+msgstr ""
+
+#: editor/template.php:206
+msgid "Layers"
+msgstr ""
+
+#: includes/cpt.php:50
+msgid "Template Name"
+msgstr ""
+
+#: includes/cpt.php:51 includes/metabox.php:41
+msgid "Type"
+msgstr ""
+
+#: includes/cpt.php:52
+msgid "Status"
+msgstr ""
+
+#: includes/cpt.php:53
+msgid "Shortcode"
+msgstr ""
+
+#: includes/cpt.php:54
+msgid "Date"
+msgstr ""
+
+#: includes/cpt.php:98 includes/cpt.php:100 includes/cpt.php:101
+msgid "Email Templates"
+msgstr ""
+
+#: includes/cpt.php:99 includes/cpt.php:127
+msgid "Email Template"
+msgstr ""
+
+#: includes/cpt.php:102
+msgid "Templates Archives"
+msgstr ""
+
+#: includes/cpt.php:103
+msgid "Template Attributes"
+msgstr ""
+
+#: includes/cpt.php:104
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/cpt.php:105
+msgid "All Templates"
+msgstr ""
+
+#: includes/cpt.php:106 includes/cpt.php:107
+msgid "Create New Template"
+msgstr ""
+
+#: includes/cpt.php:108 includes/menu.php:30 includes/menu.php:31
+msgid "New Template"
+msgstr ""
+
+#: includes/cpt.php:110
+msgid "Update Item"
+msgstr ""
+
+#: includes/cpt.php:111
+msgid "View Template"
+msgstr ""
+
+#: includes/cpt.php:112
+msgid "View Templates"
+msgstr ""
+
+#: includes/cpt.php:113
+msgid "Search Template"
+msgstr ""
+
+#: includes/cpt.php:114
+msgid "Template Not found"
+msgstr ""
+
+#: includes/cpt.php:115
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/cpt.php:116
+msgid "Template Image"
+msgstr ""
+
+#: includes/cpt.php:117
+msgid "Set Template image"
+msgstr ""
+
+#: includes/cpt.php:118
+msgid "Remove Template image"
+msgstr ""
+
+#: includes/cpt.php:119
+msgid "Use as Template image"
+msgstr ""
+
+#: includes/cpt.php:120
+msgid "Insert into Template"
+msgstr ""
+
+#: includes/cpt.php:121
+msgid "Uploaded to this Template"
+msgstr ""
+
+#: includes/cpt.php:122
+msgid "Items list"
+msgstr ""
+
+#: includes/cpt.php:123
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/cpt.php:124
+msgid "Filter items list"
+msgstr ""
+
+#: includes/cpt.php:128
+msgid "Email template builder"
+msgstr ""
+
+#: includes/menu.php:40 includes/menu.php:41 includes/presets.php:25
+msgid "Presets"
+msgstr ""
+
+#: includes/menu.php:53 includes/menu.php:54
+msgid "Settings"
+msgstr ""
+
+#: includes/menu.php:83
+msgid "Select a template type"
+msgstr ""
+
+#: includes/menu.php:89
+msgid "WordPress"
+msgstr ""
+
+#: includes/menu.php:90
+msgid "Customize wordpress mail templates"
+msgstr ""
+
+#: includes/menu.php:98
+msgid "General"
+msgstr ""
+
+#: includes/menu.php:99
+msgid "Create Email Template to send anyone"
+msgstr ""
+
+#: includes/metabox.php:28
+msgid "Actions"
+msgstr ""
+
+#: includes/metabox.php:73
+msgid "Source Code"
+msgstr ""
+
+#: includes/metabox.php:87 includes/metabox.php:207
+msgid "Quick Preview"
+msgstr ""
+
+#: includes/metabox.php:103
+msgid "Send This Template"
+msgstr ""
+
+#: includes/metabox.php:201
+msgid "Preview Template"
+msgstr ""
+
+#: includes/metabox.php:215 includes/metabox.php:224
+msgid "Send Test Mail"
+msgstr ""
+
+#: includes/metabox.php:229
+msgid "To"
+msgstr ""
+
+#: includes/metabox.php:233 includes/metabox.php:333
+msgid "From"
+msgstr ""
+
+#: includes/metabox.php:237 includes/metabox.php:336
+msgid "Subject"
+msgstr ""
+
+#: includes/metabox.php:243
+msgid "Send now"
+msgstr ""
+
+#: includes/metabox.php:276
+msgid "Inactive"
+msgstr ""
+
+#: includes/metabox.php:277
+msgid "Active"
+msgstr ""
+
+#: includes/metabox.php:301
+msgid "No content found ¯\\_(ツ)_/¯"
+msgstr ""
+
+#: includes/metabox.php:302
+msgid "Edit Template With Builder ⚡️"
+msgstr ""
+
+#: includes/metabox.php:317
+msgid "Custom email address"
+msgstr ""
+
+#: includes/metabox.php:318
+msgid "Site User"
+msgstr ""
+
+#: includes/metabox.php:339
+msgid "Select Email Provider"
+msgstr ""
+
+#: includes/metabox.php:341
+msgid "Default"
+msgstr ""
+
+#: includes/metabox.php:342
+msgid "Mailgun"
+msgstr ""
+
+#: includes/metabox.php:344
+msgid "Send Mail"
+msgstr ""
+
+#: includes/settings.php:71
+msgid "Email Provider Settings"
+msgstr ""
+
+#: includes/settings.php:75
+msgid "Mailgun Domain"
+msgstr ""
+
+#: includes/settings.php:80
+msgid "Mailgun API"
+msgstr ""
+
+#: includes/settings.php:89
+msgid "Template Settings"
+msgstr ""
+
+#: includes/settings.php:93
+msgid "Show Source Code"
+msgstr ""
+
+#: includes/settings.php:99
+msgid "Email Sending Option"
+msgstr ""
+
+#: includes/settings.php:104
+msgid "Enable WooCommerce"
+msgstr ""
+
+#: includes/settings.php:113
+msgid "Editor Settings"
+msgstr ""
